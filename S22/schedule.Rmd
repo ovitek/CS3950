@@ -29,4 +29,3 @@ Schedule is updated dynamically throughout the semester
 
 
 
-Peter J. Denning. Is Computer Science Science?. In Communications of ACM, April 2005.
