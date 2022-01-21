@@ -18,7 +18,7 @@ The prerequisite is CS 2500: Fundamentals of Computer Science 1, or permission o
 <p><strong>This a seminar course, which will consist of three components:</strong></br>
 **Lectures** The instructor and the guest lectures will provide the necessary general and technical background.</br>
 **Reading and discussing papers or presentations** The majority of the course will consist of summarizing research papers, and prepare presentations for the class.</br> 
-**Projects** At the end of the semester, the students will conduct a mini-project, individually or in a small group, overviewing a manuscript of  Khoury faculty member and interviewing the faculty.</br>
+**Projects** At the end of the semester, the students will conduct a mini-project, individually or in a small group. The project can take 2 forms: (1) overviewing a manuscript of  Khoury faculty member and interviewing the faculty, or (2) research in a greater depth one grand challenge in AI or engineering.</br>
 
 <p><strong>By the end of the course you will:</strong></br>
 * Understand new and ongoing research areas in computer science.</br>
