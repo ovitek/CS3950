@@ -1,0 +1,13 @@
+name: "cs7290s17"
+output_dir: "."
+navbar:
+  title: "CS7290"
+  left:
+    - text: "Info"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output:
+  html_document:
+    theme: paper
+    css: style.css

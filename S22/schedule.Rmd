@@ -1,0 +1,31 @@
+<h1> Computer Science Research Seminar, Spring 2022 </h1>
+Schedule is updated dynamically throughout the semester
+</br>
+
+<font size="3">
+
+| DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT |        DUE |
+| ---------   |:-----------------|:---------------------------|:--------| --------:| ----------:|
+| Fri, Jan 21 | Intro & overview |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)       | Zoom |  Hw1 out |            |
+| Fri, Jan 28 |                  |            | Zoom       |  Hw2 out | Hw1 due    |
+| Fri, Feb 4  |                  |            |  366 WVH</br>& Zoom  |          |  Hw2 due</br>Proj group due   |
+| Fri, Feb 11 | Guest lecture</br>Pardis [Emami-Naeini](https://homes.cs.washington.edu/~pemamina/)                 |            |  366 WVH</br>& Zoom   |          |            |
+| Fri, Feb 18 |                  |            |            |          |            |
+| Fri, Feb 25 |                  |            |            |          |            |
+| Fri, Mar 4  |  *Project pitches*  |         |            |          |            |
+| Fri, Mar 11 |                  |            |            |          | Proj proposal due |
+| Fri, Mar 18 | *No class, Spring break* |    |            |          |            |
+| Fri, Mar 25 |                  |            |            |          |            |
+| Fri, Apr 1  |                  |            |            |          |            |
+| Fri, Apr 8  |                  |            |            |          |            |
+| Fri, Apr 15 | *Project presentations*  |    |            |          |            |
+| Fri, Apr 22 | *Project presentations*  |    |            |          | Proj report due |
+| Fri, Apr 29 |                  |            |            |          | Proj review due           |
+| Fri, May 6  | *Finals week*    |            |            |          |            |
+</font>
+
+
+
+
+
+
