@@ -19,8 +19,8 @@ Schedule is updated dynamically throughout the semester
 | Fri, Apr 1  |                  |            |            |          |            |
 | Fri, Apr 8  | Research in practice:</br> Panel discussion with Ph.D. students |            |            |          |            |
 | Fri, Apr 15 | *Project presentations* |    |            |          |            |
-| Fri, Apr 22 | *Project presentations*  |    |            |          | Proj report due |
-| Fri, Apr 29 | *Project presentations*  |            |            |          | Proj review due           |
+| Fri, Apr 22 | *Project presentations*  |    |            |          |           |
+| Fri, Apr 29 | *Project presentations*  |            |            |          | Proj report due           |
 | Fri, May 6  | *Finals week*    |            |            |          |            |
 </font>
 

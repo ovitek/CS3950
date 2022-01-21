@@ -1,5 +1,5 @@
 <h1>Introduction to Computer Science Research, Spring 2022 </h1>
-<h2>Tue 9:50am-11:30am, West Village F010	 and/or Zoom</h2>
+<h2>Fri 9:50am-11:30am, West Village F010	 and/or Zoom</h2>
 
 <p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
 Email: o.vitek@northeastern.edu</br>
@@ -56,7 +56,8 @@ There are 2 slip days for the participation and the homework submissions.
 <p><strong>Project</strong></br>
 During the semester the students will perform a mini-project (individually, or in a small group).
 You will identify a research manuscript (co-)authored by a current Northeastern faculty member, in an area that you are interested in.
-Project completion consists of project proposal (25%), manuscript summary (25%), discussion with a faculty member (25%), and leading an in-class precentation and discussion (25%).
+Alternatively, you will research and present in class one grand challenge in AI or engineering. 
+Project completion consists of project proposal (25%), challenge summary (25%), Project completion consists of project proposal (25%), manuscript summary (25%), discussion with a faculty member (25%), and leading an in-class precentation and discussion (25%).
 Projects having any degree of similarity with work by any other group, or with any other document (e.g., found online) is considered plagiarism, and will not be accepted. The minimal consequence is that all the group members will receive the project score of 0, and the best possible overall course grade will be a D.
 
 <p><strong>Exams</strong></br>
