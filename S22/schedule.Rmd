@@ -12,7 +12,7 @@ Schedule is updated dynamically throughout the semester
 | Feb 11 | Guest lecture</br>[Dr. Pardis Emami-Naeini](https://homes.cs.washington.edu/~pemamina/)  </br>Presenters:</br>*Jacob  & Suman *               | P. Emami-Naeini et al. [Ask the experts: What should be on an IoT privacy and security label?](Oakland20_PardisEmamiNaeini.pdf) IEEE Symposium on Security and Privacy, p.447 2020           |  Zoom & </br>366 WVH   |  Hw4 out</br>   Hw3 due         |
 | Feb 18 | Guest lecture</br> [Dr. Maitraye Das](https://maitraye.github.io/)  </br>Presenters:</br>TBA   |   M. Das et al., [Co11ab: Augmenting accessibility in synchronous collaborative writing for people with vision impairments](https://maitraye.github.io/files/papers/BVI_CW_CHI22.pdf),   CHI 2022</br> Also see [related short video](https://www.youtube.com/watch?v=dEbl5jvLKGQ)      |  Zoom & </br>366 WVH  |   Hw4 due       |
 | Feb 25 |                  |            |            |          |
-| Mar 4  |                  |         |            |          |
+| Mar 4  | Guest lecture</br> [Dr. Max Kreminski](https://mkremins.github.io/) |         |            |          |
 | Mar 11 |                  |            |            | Proj proposal due |
 | Mar 18 | *No class, Spring break* |    |            |          |
 | Mar 25 |                  |            |            |          |
