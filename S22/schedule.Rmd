@@ -13,7 +13,7 @@ Schedule is updated dynamically throughout the semester
 | Feb 18 | Guest lecture</br> [Dr. Maitraye Das](https://maitraye.github.io/)  </br>Presenters:</br>*Brandon and Jonathan*   |   M. Das et al., [Co11ab: Augmenting accessibility in synchronous collaborative writing for people with vision impairments](https://maitraye.github.io/files/papers/BVI_CW_CHI22.pdf),   CHI 2022</br> Also see [related short video](https://www.youtube.com/watch?v=dEbl5jvLKGQ)      |  Zoom & </br>366 WVH  |   Hw5 out</br>   Hw4 due       |
 | Feb 25 | Guest lecture</br> [Dr. Tesca Fitzgerald](https://www.tescafitzgerald.com/) </br>Presenters:</br>*Douglas & George* |  Y. Cui et al., [Understanding the relationship between interactions and outcomes in human-in-the-loop machine learning](https://www.ijcai.org/proceedings/2021/599),   IJCA 2021  |  Zoom & </br>366 WVH | Hw6 out</br>   Hw5 due |
 | Mar 4  | Guest lecture</br> [Dr. Max Kreminski](https://mkremins.github.io/) |         M. Kreminski et al., [Why are we like this?: Exploring writing mechanics for an AI-augmented storytelling game](https://mkremins.github.io/publications/WAWLT_ELO2020.pdf),   ELO 2020  |  Zoom & </br>366 WVH | Hw7 out</br>   Hw6 due |
-| Mar 11 |                  |            |            | Proj proposal due |
+| Mar 11 | Guest lecture</br> [Dr. Seshadhri (Sesh) Comandur](https://users.soe.ucsc.edu/~sesh/) |            |            | Proj proposal due |
 | Mar 18 | *No class, Spring break* |    |            |          |
 | Mar 25 |                  |            |            |          |
 | Apr 1  |                  |            |            |          |
