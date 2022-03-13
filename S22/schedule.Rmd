@@ -14,9 +14,9 @@ Schedule is updated dynamically throughout the semester
 | Feb 25 | Guest lecture</br> [Dr. Tesca Fitzgerald](https://www.tescafitzgerald.com/) </br>Presenters:</br>*Douglas & George* |  Y. Cui et al., [Understanding the relationship between interactions and outcomes in human-in-the-loop machine learning](https://www.ijcai.org/proceedings/2021/599),   IJCA 2021  |  Zoom & </br>366 WVH | Hw6 out</br>   Hw5 due |
 | Mar 4  | Guest lecture</br> [Dr. Max Kreminski](https://mkremins.github.io/)</br>Presenters:</br>*Alan & Noah* |         M. Kreminski et al., [Why are we like this?: Exploring writing mechanics for an AI-augmented storytelling game](https://mkremins.github.io/publications/WAWLT_ELO2020.pdf), ELO 2020  |  Zoom & </br>366 WVH | Hw7 out</br>   Hw6 due |
 | Mar 11 | Guest lecture</br> [Dr. Seshadhri (Sesh) Comandur](https://users.soe.ucsc.edu/~sesh/)</br>Presenters:</br>*Aditya & Anubhab* |C. Seshadhri et al., [Triadic measures on graphs: The power of wedge sampling](https://epubs.siam.org/doi/10.1137/1.9781611972832.2) SIAM SDM, 2013</br>Optional reading: [this tutorial](https://users.soe.ucsc.edu/~sesh/subgraph_counting/www19-subgraph-counting-tutorial-part1.pdf) | Zoom only           | Hw7 due</br>Proj proposal due |  
-| Mar 18 | *No class, Spring break* |    |            |          |
-| Mar 25 |                  |            |            |          |
-| Apr 1  |                  |            |            |          |
+| Mar 18 | *No class, Spring break* |    |            |  Hw8 out        |
+| Mar 25 |  Guest lecture</br> [Dr. Fernando Diaz](https://841.io/)                |            |  Zoom & </br>366 WVH  | Hw8 due</br>Hw9 out         |
+| Apr 1  |  Guest lecture</br> [Dr. Christoforos</br> Mavrogiannis](https://chrismavrogiannis.com/)                |            |  Zoom & </br>366 WVH  |  Hw9 due        |
 | Apr 8  |  |            |            |          |
 | Apr 15 | Research in practice:</br> Panel discussion with Ph.D. students |    |            |          |
 | Apr 22 | *No class</br>Project presentations following week*  |    |            |          |
