@@ -20,7 +20,7 @@ Schedule is updated dynamically throughout the semester
 | Apr 8  | Guest lecture</br> [Dr. Yixin Zou](https://yixinzou.github.io/)</br>Presenters: *Derek* | P. Mayer et al., ["Now I'm a bit angry:" Individuals' awareness, perception, and responses to data breaches that affected them](https://www.usenix.org/conference/usenixsecurity21/presentation/mayer) USENIX Security Symposium, 393, 2021 | Zoom & </br>366 WVH           |  Hw10 due</br>Hw11 out |
 | Apr 15 | Research in practice:</br> Panel discussion with Khoury Ph.D. students | Guests: [Julia Belyakova](https://www.khoury.northeastern.edu/people/julia-belyakova/), [Ondrej Biza](https://www.khoury.northeastern.edu/people/ondrej-biza/), [Jeffrey Gleason](https://www.khoury.northeastern.edu/people/jeffrey-gleason/), [Sarthak Jain](https://www.khoury.northeastern.edu/people/sarthak-jain-2/), [Laura South](https://www.khoury.northeastern.edu/people/laura-south/)   | Zoom  | Hw11 due         |
 | Apr 22 | *No class</br>Project presentations following week*  |    |            |          |
-| Apr 29 | *Project presentations*  |            |  Zoom  | Proj report due           |
+| Apr 29 | *Project presentations*  |            |  Zoom  | Proj slides due           |
 | May 6  | *Finals week*    |            |            |          | 
 </font>
 
