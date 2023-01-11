@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>index.knit</title>
+
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CS3950</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Info</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<h1>
+Introduction to Computer Science Research, Spring 2023
+</h1>
+<h2>
+Fri 9:50am-11:30am, on Zoom
+</h2>
+<p>
+<strong>Instructor:</strong> <a
+href="http://olga-vitek-lab.ccis.northeastern.edu/">Prof. Olga
+Vitek</a></br> Email: <a href="mailto:o.vitek@northeastern.edu"
+class="email">o.vitek@northeastern.edu</a></br> Office hours: After the
+class, or by appointment. 177 Huntington Ave, 9th floor.
+</p>
+<p>
+<p><strong>Teaching assistant:</strong></br> <a
+href="https://www.khoury.northeastern.edu/people/jaydeep-borkar/">Mr. Jaydeep
+Borkar</a>, Email: <a href="mailto:borkar.j@northeastern.edu"
+class="email">borkar.j@northeastern.edu</a></br> Office hours: ISEC, by
+appointment.</p>
+<p>
+<p><strong>Course description:</strong></br> This 2-credit undergraduate
+course introduces the scientific method and provides an overview of
+research in computer science and related fields. The course explores
+recent challenges and research advances in these fields, and gives
+students practice on how to read and analyze scientific literature in
+different sub-areas. The class meets once per week for a 100-minute
+session.</p>
+<p>The prerequisite is CS 2500: Fundamentals of Computer Science 1, or
+permission of the instructor.</p>
+<p>
+<p><strong>This a seminar course, which will consist of three
+components:</strong></br> <strong>Lectures</strong> The instructor and
+the guest lectures will provide the necessary general and technical
+background.</br> <strong>Reading and discussing papers or
+presentations</strong> The majority of the course will consist of
+summarizing research papers, and preparing presentations for the
+class.</br> <strong>Projects</strong> At the end of the semester, the
+students will conduct a mini-project, individually or in a small group.
+The project can take 2 forms: (1) overviewing a manuscript of Khoury
+faculty member and interviewing the faculty, or (2) research in a
+greater depth one grand challenge in AI or engineering.</br></p>
+<p>
+<p><strong>By the end of the course you will:</strong></br> * Understand
+new and ongoing research areas in computer science.</br> * Understand
+scientific methods used across the research areas.</br> * Be able to
+read and evaluate a computer science paper.</br> * Present and answer
+questions about a technical paper.</br> * Conduct novel research and
+report results.</br> * Understand how the research process works, from
+initial steps to analysis and paper writing.</br></p>
+<p>
+<p><strong>Course administration:</strong></br> All the discussions and
+the extra handouts are available on <a
+href="piazza.com/northeastern/spring2022/cs3950/home">Piazza</a>. Please
+do not send email.</br> Zoom links, assignment submissions and grades
+are managed via <a
+href="https://canvas.northeastern.edu/">Canvas</a>.</br> The course has
+no textbook.</br></p>
+<p>
+<p><strong>Course policies:</strong></br> <a
+href="http://www.northeastern.edu/osccr/academic-integrity-policy/">Academic
+integrity policy</a> is strictly enforced.</br> <a
+href="https://news.northeastern.edu/coronavirus/">NEU covid19 safety
+policy</a> is strictly enforced.</br> Please review <a
+href="https://www.northeastern.edu/ouec/title-ix-policy-2/">NEU Title
+IX</a> policy and procedures.</br> Please reach out to <a
+href="https://drc.sites.northeastern.edu/">Disability Resource
+Center</a> if you need an academic accommodation.</p>
+<p>
+<p><strong>Participation</strong></br> You are expected to attend each
+class meeting, as attendance and active participation during meetings
+comprises a large fraction of your grade. The TA will take note of both
+the attendance and the participation in the discussions. If you must
+miss class, please contact the instructor at least <strong>48
+hours</strong> before the class.</p>
+<p>
+<p><strong>Homeworks</strong></br> This course will have regular
+homeworks, most in the form of a review of a paper related to the
+in-class discussion that week. Each homework will be graded according to
+the quality of responses to the questions. Extensions to homework
+deadlines can be obtained if requested at least <strong>48
+hours</strong> before the deadline, and duly justified. Homeworks turned
+in after the deadline will not receive credit. Any requests for grade
+changes or regrading must be made within <strong>seven</strong> days of
+when the work was returned. To ask for a regrade, attach to your work a
+page that specifies (a) the problem or problems you want to be regraded,
+and (b) for each of these problems, why do you think the problem was
+misgraded. <strong>Each homework is 10 points.</strong></p>
+<p>
+<p><strong>Papers readings and discussions</strong></br> On days when we
+do not have guest lectures, a team of 2 students will make an oral
+presentation of the assigned manuscript. Leading the discussion involves
+two tasks. First, the team will make an approximately 15 minute
+presentation that describes the motivation, goals, and results of the
+paper. Second, after this presentation and for the remainder of the
+allocated time slot, the team will lead the discussion on the paper. The
+goal is to ensure a lively atmosphere for discussion, while being
+careful to stay on the topic of the paper. The remaining audience
+members are expected to have read the paper and participate in the
+discussion. <strong>Attendance and participation in each class is 10
+points. Paper presentation and leading the discussion is 40
+points.</strong></p>
+<p>
+<p><strong>Slip days</strong></br> There are 2 slip days for the
+participation and the homework submissions. If you do not take slip
+days, 2 lowest homework scores will be dropped before calculating the
+final course grade.</p>
+<p>
+<p><strong>Project</strong></br> During the semester the students will
+perform a mini-project (individually, or in a small group). You will
+identify a research manuscript (co-)authored by a current Northeastern
+faculty member, in an area that you are interested in. Alternatively,
+you will research and present in class one grand challenge in AI or
+engineering. Project completion consists of project proposal (25%),
+manuscript (or a grand challenge) summary (25%), discussion with a
+faculty member (25%), and leading an in-class precentation and
+discussion (25%). Projects having any degree of similarity with work by
+any other group, or with any other document (e.g., found online) is
+considered plagiarism, and will not be accepted. The minimal consequence
+is that all the group members will receive the project score of 0, and
+the best possible overall course grade will be a D.</p>
+<p>
+<p><strong>Exams</strong></br> There are no exams in this course.</p>
+<p>
+<p><strong>Grading</strong></br> The final grade is based on a total of
+100 points. The sum of all the homeworks points will be scaled to the
+maximum of 30. The sum of all the attendance and participation points
+will be scaled to the maximum of 30. The project will be scaled to the
+maximum of 40. The scaled points will be added, and the final letter
+grades will follow the usual scale:</br> 90-100% = A-range (i..e, A+, A
+or A-) </br> 80-89% = B-range (i.e., B+, B or B-) </br> 70-79% = C-range
+(i.e., C+, C or C-) </br> 60-69% = D </br> 0-59% = F </br> The cutoffs
+for ‘+’ and ‘-’ grades will be determined at the end of the semester, at
+the discretion of the intructor. This scale is subject to change at any
+time, at the discretion of the instructor.</p>
+<p>
+<p><strong>Changes to final course grade:</strong></br> Changes to the
+final course grade should be requested in writing, within <strong>one
+week</strong> after receiving the final course grade. The request should
+contain a technical explanation of why re-grading is necessary. If the
+request is justified, the instructor will regrade <strong>all the
+submissions</strong>, including all the homeworks, the exams and the
+project, to determine the new grade. The new grade can potentially be
+lower than the original grade.</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

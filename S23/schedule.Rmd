@@ -1,0 +1,31 @@
+<h1> Computer Science Research Seminar, Spring 2023 </h1>
+Schedule is updated dynamically throughout the semester
+</br>
+
+<font size="3">
+
+| DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT/DUE |
+| ------   |:------------------|:---------------------------------|:------| --------:| 
+| Jan 13 | Intro & overview |  P. J. Denning, [Is computer science science?](http://denninginstitute.com/pjd/PUBS/CACMcols/cacmJul07.pdf) In Communications of ACM, 2005.        | Zoom |  Hw1 out |
+| Jan 20 |  Scientific method &</br>grand challenges</br>Presenters:</br>*TBD*              |  G. Mani et al., [Artificial Intelligence’s Grand Challenges: Past, Present, and Future](https://www.andrew.cmu.edu/user/ganeshm/GrandChallengesAIMagazineSpring2021.pdf), AI Magazine 42, p. 61, 2021.</br>[Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), National Academy of Engineering, 2008   | Zoom       |  Hw2 out </br> Hw1 due    |
+| Jan 27  |   How to read & write</br>scientific papers  </br>  Presenters:</br>*TBD*            |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)   </br> TBD      |  Zoom  |  Hw3 out </br> Hw2 due</br>Proj group due   |
+| Feb 3 |  |  |   |       |
+| Feb 10 |  |  |   |       |
+| Feb 17 |  |  |   |       |
+| Feb 24 |  |  |   |       |
+| Mar 3 |  |  |   |  Proj proposal due     |
+| Mar 10 | *No class, Spring break* |  |   |       |
+| Mar 17 |  |  |   |       |
+| Mar 24 |  |  |   |       |
+| Mar 31 |  |  |   |       |
+| Apr 7 |  |  |   |       |
+| Apr 14 |   *No class</br>Project presentations following week*  |    |            |          |
+| Apr 21 | *Project presentations*  |            |  Zoom  | Proj slides due           |
+| Apr 28  | *Finals week*    |            |            |          | 
+</font>
+
+
+
+
+
+
