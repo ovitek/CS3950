@@ -28,7 +28,7 @@ The prerequisite is CS 2500: Fundamentals of Computer Science 1, or permission o
 * Conduct novel research and report results.</br>
 * Understand how the research process works, from initial steps to analysis and paper writing.</br>
 
-<p><strong>Course administration:</strong></br> All the discussions and the extra handouts are available on [Piazza](piazza.com/northeastern/spring2022/cs3950/home). Please do not send email.</br> 
+<p><strong>Course administration:</strong></br> All the discussions and the extra handouts are available on [Piazza](https://piazza.com/northeastern/spring2023/cs3950). Please do not send email.</br> 
 Zoom links, assignment submissions and grades are managed via [Canvas](https://canvas.northeastern.edu/).</br> 
 The course has no textbook.</br>
 
