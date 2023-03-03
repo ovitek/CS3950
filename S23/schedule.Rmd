@@ -16,9 +16,9 @@ Schedule is updated dynamically throughout the semester
 | Mar 3 | *Presenters: Anish, Gyan,</br>Shaan, Tianyu*</br>Guest lecture:</br>[Dr. April Wang](https://aprilwang.me) | A. Wang et al. [Colaroid: A literate programming approach for authoring explorable multi-stage tutorials](https://aprilwang.me/assets/pubs/CHI23_Colaroid.pdf), ACM CHI, 2023 | Zoom &</br>WVH 366  |  Hw8 out</br>Hw7 due</br>Proj proposal due     |
 | Mar 10 | *No class, Spring break* |  |   |       |
 | Mar 17 |  |  |   |       |
-| Mar 24 | Guest lecture::</br>[Dr. Mitchell Gordon](https://mgordon.me/) |  |   | Zoom &</br>WVH 366      |
+| Mar 24 | Guest lecture:</br>[Dr. Mitchell Gordon](https://mgordon.me/) |  M. Gordon et al. [Jury learning: Integrating dissenting voices into machine learning models](https://arxiv.org/abs/2202.02950), ACM CHI, 2022 |   | Zoom &</br>WVH 366      |
 | Mar 31 |  |  |   |       |
-| Apr 7 | Guest lecture::</br>[Dr. Koustuv Saha](https://koustuv.com/) |  |   |  Zoom      |
+| Apr 7 | Guest lecture:</br>[Dr. Koustuv Saha](https://koustuv.com/) |  |   |  Zoom      |
 | Apr 14 |   *No class</br>Project presentations following week*  |    |            |          |
 | Apr 21 | *Project presentations*  |            |  Zoom  | Proj slides due           |
 | Apr 28  | *Finals week*    |            |            |          | 
