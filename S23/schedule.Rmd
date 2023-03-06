@@ -15,10 +15,10 @@ Schedule is updated dynamically throughout the semester
 | Feb 24 | *Presenters:</br> Brooklyn, Shuhao, Yu *</br>Guest lecture:</br>[Dr. Tianshi Li](https://tianshili.me) | Li et al. [Understanding challenges for developers to create accurate privacy nutrition labels](https://dl.acm.org/doi/abs/10.1145/3491102.3502012), ACM CHI, 2022. | Zoom &</br>WVH 366  |    Hw7 out</br>Hw6 due   |
 | Mar 3 | *Presenters: Anish, Gyan,</br>Shaan, Tianyu*</br>Guest lecture:</br>[Dr. April Wang](https://aprilwang.me) | A. Wang et al. [Colaroid: A literate programming approach for authoring explorable multi-stage tutorials](https://aprilwang.me/assets/pubs/CHI23_Colaroid.pdf), ACM CHI, 2023 | Zoom &</br>WVH 366  |  Hw8 out</br>Hw7 due</br>Proj proposal due     |
 | Mar 10 | *No class, Spring break* |  |   |       |
-| Mar 17 |  |  |   |   Zoom    |
-| Mar 24 | Guest lecture:</br>[Dr. Mitchell Gordon](https://mgordon.me/) |  M. Gordon et al. [Jury learning: Integrating dissenting voices into machine learning models](https://arxiv.org/abs/2202.02950), ACM CHI, 2022 |   | Zoom &</br>WVH 366      |
-| Mar 31 | *Presenters:</br> TBD*</br>*Guest: [Ben Weintraub](https://ben-weintraub.com/)* |  |   |  Zoom     |
-| Apr 7 | *Presenters:</br> TBD*</br>Guest lecture:</br>[Dr. Koustuv Saha](https://koustuv.com/) | K. Saha, M. De Choudhury. [Modeling stress with social media around incidents of gun violence on college campuses](https://dl.acm.org/doi/10.1145/3134727), ACM CSCW, 2017 |   |  Zoom      |
+| Mar 17 | *Presenters:</br> TBD*</br>*Guest: TBD* |  | Zoom  | Hw9 out</br>Hw8 due  |
+| Mar 24 | Guest lecture:</br>[Dr. Mitchell Gordon](https://mgordon.me/) |  M. Gordon et al. [Jury learning: Integrating dissenting voices into machine learning models](https://arxiv.org/abs/2202.02950), ACM CHI, 2022 |  Zoom &</br>WVH 366   |  Hw10 out</br>Hw9 due   |
+| Mar 31 | *Presenters:</br> TBD*</br>*Guest: [Ben Weintraub](https://ben-weintraub.com/)* | S. Nakamoto [Bitcoin: A peer-to-peer electronic cash system](http://css.csail.mit.edu/6.858/2015/readings/bitcoin.pdf), 2008.</br>M. Apostolaki et al. [Hijacking Bitcoin: Routing attacks on cryptocurrencies](https://arxiv.org/pdf/1605.07524.pdf), IEEE Symposium on Security and Privacy, 2017  |   Zoom     |Hw11 out</br>Hw10 due | 
+| Apr 7 | *Presenters:</br> TBD*</br>Guest lecture:</br>[Dr. Koustuv Saha](https://koustuv.com/) | K. Saha, M. De Choudhury. [Modeling stress with social media around incidents of gun violence on college campuses](https://dl.acm.org/doi/10.1145/3134727), ACM CSCW, 2017 |   Zoom      | Hw11 due | 
 | Apr 14 |   *No class</br>Project presentations following week*  |    |            |          |
 | Apr 21 | *Project presentations*  |            |  Zoom  | Proj slides due           |
 | Apr 28  | *Finals week*    |            |            |          | 
