@@ -20,7 +20,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 31 | *Presenters:</br>Jiaqi, Riley*</br>*Guest: [Ben Weintraub](https://ben-weintraub.com/)* | S. Nakamoto [Bitcoin: A peer-to-peer electronic cash system](http://css.csail.mit.edu/6.858/2015/readings/bitcoin.pdf), 2008.</br>M. Apostolaki et al. [Hijacking Bitcoin: Routing attacks on cryptocurrencies](https://arxiv.org/pdf/1605.07524.pdf), IEEE Symposium on Security and Privacy, 2017  |   Zoom     |Hw11 out</br>Hw10 due | 
 | Apr 7 | *Presenters:</br>Alan, Amani*</br>Guest lecture:</br>[Dr. Koustuv Saha](https://koustuv.com/) | K. Saha, M. De Choudhury. [Modeling stress with social media around incidents of gun violence on college campuses](https://dl.acm.org/doi/10.1145/3134727), ACM CSCW, 2017 |   Zoom      | Hw11 due | 
 | Apr 14 |   *No class</br>Project presentations following week*  |    |            |          |
-| Apr 21 | *Project presentations*  |            |  Zoom  | Proj slides due           |
+| Apr 21 | *Project presentations*.</br> **Class starts 9:30am**  |            |  Zoom  | Proj slides due           |
 | Apr 28  | *Finals week*    |            |            |          | 
 </font>
 
