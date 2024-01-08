@@ -6,22 +6,21 @@ Schedule is updated dynamically throughout the semester
 
 | DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT/DUE |
 | ------   |:------------------|:---------------------------------|:------| --------:| 
-| Jan 13 | Intro & overview |  P. J. Denning, [Is computer science science?](http://denninginstitute.com/pjd/PUBS/CACMcols/cacmJul07.pdf) In Communications of ACM, 2005.        | Zoom |  Hw1 out |
-| Jan 20 |  Scientific method &</br>grand challenges</br>*Presenters:*</br>*Amina, Mihir, Praveen*              |  G. Mani et al., [Artificial Intelligence’s Grand Challenges: Past, Present, and Future](https://www.andrew.cmu.edu/user/ganeshm/GrandChallengesAIMagazineSpring2021.pdf), AI Magazine 42, p. 61, 2021.</br>[Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), National Academy of Engineering, 2008   | Zoom       |  Hw2 out </br> Hw1 due    |
-| Jan 27  |   How to read & write</br>scientific papers;</br>algorithm auditing  </br>  *Presenters:*</br>*Ananya, Tao, Vinnie*            |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)   </br> Ali et al, [Discrimination through optimization: how Facebook's ad delivery can lead to biased outcomes](https://dl.acm.org/doi/abs/10.1145/3359301), HCI 2019. Related [news item](https://news.northeastern.edu/2023/01/19/ai-bill-of-rights-alan-mislove).      |  Zoom  |  Hw3 out </br> Hw2 due</br>Proj group due   |
-| Feb 3 | Large language models</br>*Presenters:</br> Dustin, Josie, Rishikesh* | E. M. Bender et al. [On the dangers of stochastic parrots: Can language models be too big?](https://dl.acm.org/doi/abs/10.1145/3442188.3445922), ACM Conference on Fairness, Accountability, and Transparency, 2021.<br> One of many related [commentaries](https://www.lrb.co.uk/blog/2021/february/stochastic-parrots).</br> [Presentation by author.](https://www.turing.ac.uk/events/dangers-stochastic-parrots) |  Zoom |  Hw4 out</br>Hw3 due     |
-| Feb 10 | Large language models & NN</br>*Presenters:</br> Armina, Easha, Harrison, Nabeela*</br>*Guest: [Jay DeYoung](https://www.khoury.northeastern.edu/people/jay-deyoung/)* | J. Devlin et al. [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805), ArXive, 2019.</br> Y. Benjio et al. [Deep learning for AI](https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext), Communications of the ACM, 2021. | Zoom  | Hw5 out</br>Hw4 due      |
-| Feb 17 | *Presenters: Rebecca, Yash*</br>Guest lecture:</br>[Dr. Sainyam Galhotra](https://sainyamgalhotra.com) | J. Pearl. [The seven tools of causal inference, with reflections on machine learning](https://dl.acm.org/doi/pdf/10.1145/3241036), Communications of the ACM, 2019 |  Zoom &</br>WVH 366 | Hw6 out</br>Hw5 due |
-| Feb 24 | *Presenters:</br> Brooklyn, Shuhao, Yu *</br>Guest lecture:</br>[Dr. Tianshi Li](https://tianshili.me) | Li et al. [Understanding challenges for developers to create accurate privacy nutrition labels](https://dl.acm.org/doi/abs/10.1145/3491102.3502012), ACM CHI, 2022. | Zoom &</br>WVH 366  |    Hw7 out</br>Hw6 due   |
-| Mar 3 | *Presenters: Anish, Gyan,</br>Shaan, Tianyu*</br>Guest lecture:</br>[Dr. April Wang](https://aprilwang.me) | A. Wang et al. [Colaroid: A literate programming approach for authoring explorable multi-stage tutorials](https://aprilwang.me/assets/pubs/CHI23_Colaroid.pdf), ACM CHI, 2023 | Zoom &</br>WVH 366  |  Hw8 out</br>Hw7 due</br>Proj proposal due     |
-| Mar 10 | *No class, Spring break* |  |   |       |
-| Mar 17 | *Presenters:</br> Neel, Ryan*</br>*Guest: [Michelle Thalakottur](https://www.khoury.northeastern.edu/people/michelle-thalakottur/)* | A. Haas et al. [Bringing the web up to speed with WebAssembly](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363), PLDI 2017</br>Additional material: [History of Web assembly](https://www.youtube.com/watch?v=6r0NKEQqkz0);</br>[Talk presenting the manuscript](https://pldi17.sigplan.org/details/pldi-2017-papers/48/Bringing-the-Web-up-to-Speed-with-WebAssembly); [Tutorials](https://github.com/mbasso/awesome-wasm/blob/master/README.md)  | Zoom  | Hw9 out</br>Hw8 due  |
-| Mar 24 | *Presenters:</br>Pranav, Shrey*</br>Guest lecture:</br>[Dr. Mitchell Gordon](https://mgordon.me/) |  M. Gordon et al. [Jury learning: Integrating dissenting voices into machine learning models](https://arxiv.org/abs/2202.02950), ACM CHI, 2022 |  Zoom &</br>WVH 366   |  Hw10 out</br>Hw9 due   |
-| Mar 31 | *Presenters:</br>Jiaqi, Riley*</br>*Guest: [Ben Weintraub](https://ben-weintraub.com/)* | S. Nakamoto [Bitcoin: A peer-to-peer electronic cash system](http://css.csail.mit.edu/6.858/2015/readings/bitcoin.pdf), 2008.</br>M. Apostolaki et al. [Hijacking Bitcoin: Routing attacks on cryptocurrencies](https://arxiv.org/pdf/1605.07524.pdf), IEEE Symposium on Security and Privacy, 2017  |   Zoom     |Hw11 out</br>Hw10 due | 
-| Apr 7 | *Presenters:</br>Alan, Amani*</br>Guest lecture:</br>[Dr. Koustuv Saha](https://koustuv.com/) | K. Saha, M. De Choudhury. [Modeling stress with social media around incidents of gun violence on college campuses](https://dl.acm.org/doi/10.1145/3134727), ACM CSCW, 2017 |   Zoom      | Hw11 due | 
-| Apr 14 |   *No class</br>Project presentations following week*  |    |            |          |
-| Apr 21 | *Project presentations*.</br> **Class starts 9:30am**  |            |  Zoom  | Proj slides due           |
-| Apr 28  | *Finals week*    |            |            |          | 
+| Jan 12 | Intro & overview |  P. J. Denning, [Is computer science science?](http://denninginstitute.com/pjd/PUBS/CACMcols/cacmJul07.pdf) In Communications of ACM, 2005.        | Ryder 456 |  Hw1 out |
+| Jan 19 |  Scientific method &</br>grand challenges</br>*Presenters:*</br>*Amina, Mihir, Praveen*              |  G. Mani et al., [Artificial Intelligence’s Grand Challenges: Past, Present, and Future](https://www.andrew.cmu.edu/user/ganeshm/GrandChallengesAIMagazineSpring2021.pdf), AI Magazine 42, p. 61, 2021.</br>[Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), National Academy of Engineering, 2008   | |  Hw2 out </br> Hw1 due    |
+| Jan 26  |   How to read & write</br>scientific papers;</br>algorithm auditing |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)    |   |  Hw3 out </br> Hw2 due</br>Proj group due   |
+| Feb 2  | | | |  Hw4 out</br>Hw3 due     |
+| Feb 9  | | | |  Hw5 out</br>Hw4 due     |
+| Feb 16 | | | |  Hw6 out</br>Hw5 due |
+| Feb 23 | | | |  Hw7 out</br>Hw6 due   |
+| Mar 1  | | | |  Hw8 out</br>Hw7 due</br>Proj proposal due     |
+| Mar 8  | *No class, Spring break* |  |   |       |
+| Mar 15 | | | |  Hw9 out</br>Hw8 due  |
+| Mar 22 | | | |  Hw10 out</br>Hw9 due   |
+| Mar 29 | | | |  Hw11 out</br>Hw10 due | 
+| Apr 5  | | | |  Hw11 due | 
+| Apr 12 |   *Project presentations*.</br> **Class starts 9:30am**  |    |            |  Proj slides due  |
+| Apr 19 | *Finals week starts*  |            |  Zoom  | Proj slides due           |
 </font>
 
 
