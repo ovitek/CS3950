@@ -7,7 +7,7 @@ Schedule is updated dynamically throughout the semester
 | DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT/DUE |
 | ------   |:------------------|:---------------------------------|:------| --------:| 
 | Jan 12 | Intro & overview |  P. J. Denning, [Is computer science science?](http://denninginstitute.com/pjd/PUBS/CACMcols/cacmJul07.pdf) In Communications of ACM, 2005.        | Ryder 456 |  Hw1 out |
-| Jan 19 |  Scientific method &</br>grand challenges</br>*Presenters:*</br>*Amina, Mihir, Praveen*              |  G. Mani et al., [Artificial Intelligence’s Grand Challenges: Past, Present, and Future](https://www.andrew.cmu.edu/user/ganeshm/GrandChallengesAIMagazineSpring2021.pdf), AI Magazine 42, p. 61, 2021.</br>[Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), National Academy of Engineering, 2008   | |  Hw2 out </br> Hw1 due    |
+| Jan 19 |  Scientific method &</br>grand challenges</br>*Presenters:*</br>*TBD*              |  G. Mani et al., [Artificial Intelligence’s Grand Challenges: Past, Present, and Future](https://www.andrew.cmu.edu/user/ganeshm/GrandChallengesAIMagazineSpring2021.pdf), AI Magazine 42, p. 61, 2021.</br>[Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), National Academy of Engineering, 2008   | |  Hw2 out </br> Hw1 due    |
 | Jan 26  |   How to read & write</br>scientific papers;</br>algorithm auditing |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)    |   |  Hw3 out </br> Hw2 due</br>Proj group due   |
 | Feb 2  | | | |  Hw4 out</br>Hw3 due     |
 | Feb 9  | | | |  Hw5 out</br>Hw4 due     |
@@ -20,7 +20,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 29 | | | |  Hw11 out</br>Hw10 due | 
 | Apr 5  | | | |  Hw11 due | 
 | Apr 12 |   *Project presentations*.</br> **Class starts 9:30am**  |    |            |  Proj slides due  |
-| Apr 19 | *Finals week starts*  |            |  Zoom  | Proj slides due           |
+| Apr 19 | *Finals week starts*  |            |  |  |
 </font>
 
 
