@@ -7,7 +7,7 @@ Schedule is updated dynamically throughout the semester
 | DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT/DUE |
 | ------   |:------------------|:---------------------------------|:------| --------:| 
 | Jan 12 | Intro & overview |  P. J. Denning, [Is computer science science?](http://denninginstitute.com/pjd/PUBS/CACMcols/cacmJul07.pdf) In Communications of ACM, 2005.</br>How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)        | Ryder 456 |  Hw1 out |
-| Jan 19 |  *Presenters: TBD*</br>Guest lecture:</br>[Dr. Micah Goldblum](https://goldblum.github.io/) | TBD |  Zoom &</br>WVH 366|  Hw2 out </br> Hw1 due    |
+| Jan 19 |  *Presenters: TBD*</br>Guest lecture:</br>[Dr. Micah Goldblum](https://goldblum.github.io/) | R. Huang et al. [Understanding generalization through visualizations](https://arxiv.org/abs/1906.03291), arXiv, 2020 |  Zoom &</br>WVH 366|  Hw2 out </br> Hw1 due    |
 | Jan 26  |    |      |   |  Hw3 out </br> Hw2 due</br>Proj group due   |
 | Feb 2  | *Presenters: TBD*</br>Guest lecture:</br>[Mr. Tom Silver](https://web.mit.edu/tslvr/www/) | TBD |  Zoom &</br>WVH 366 |  Hw4 out</br>Hw3 due     |
 | Feb 9  | | | |  Hw5 out</br>Hw4 due     |
