@@ -8,7 +8,7 @@ Schedule is updated dynamically throughout the semester
 | ------   |:------------------|:---------------------------------|:------| --------:| 
 | Jan 12 | Intro & overview |  P. J. Denning, [Is computer science science?](http://denninginstitute.com/pjd/PUBS/CACMcols/cacmJul07.pdf) In Communications of ACM, 2005.</br>How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)        | Ryder 456 |  Hw1 out |
 | Jan 19 |  *Presenters:</br> Jacob, Mackenzie, Rob*</br>Guest lecture:</br>[Dr. Micah Goldblum](https://goldblum.github.io/) | R. Huang et al. [Understanding generalization through visualizations](https://arxiv.org/abs/1906.03291), arXiv, 2020 |  Zoom &</br>WVH 366|  Hw2 out </br> Hw1 due    |
-| Jan 26  |    |      |   |  Hw3 out </br> Hw2 due</br>Proj group due   |
+| Jan 26  |  *Presenters:</br> TBD*  |  Ali et al, [Discrimination through optimization: how Facebook's ad delivery can lead to biased outcomes](https://dl.acm.org/doi/abs/10.1145/3359301), HCI 2019. Related [news item](https://news.northeastern.edu/2023/01/19/ai-bill-of-rights-alan-mislove).    |   |  Hw3 out </br> Hw2 due</br>Proj group due   |
 | Feb 2  | *Presenters:</br> Aniket, Austin, Zoe*</br>Guest lecture:</br>[Mr. Tom Silver](https://web.mit.edu/tslvr/www/) | N. Kumar et al. [Bilevel planning for robots: An illustrated introduction](https://lis.csail.mit.edu/bilevel-planning-for-robots-an-illustrated-introduction/), MIT, 2023 |  Zoom &</br>WVH 366 |  Hw4 out</br>Hw3 due     |
 | Feb 9  | | | |  Hw5 out</br>Hw4 due     |
 | Feb 16 | | | |  Hw6 out</br>Hw5 due |
