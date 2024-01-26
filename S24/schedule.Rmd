@@ -11,7 +11,7 @@ Schedule is updated dynamically throughout the semester
 | Jan 26  |  *Presenters:</br> Gillian, Harsh, Nick*  |  Ali et al, [Discrimination through optimization: how Facebook's ad delivery can lead to biased outcomes](https://dl.acm.org/doi/abs/10.1145/3359301), HCI 2019. Related [news item](https://news.northeastern.edu/2023/01/19/ai-bill-of-rights-alan-mislove).    |   |  Hw3 out </br> Hw2 due</br>Proj group due   |
 | Feb 2  | *Presenters:</br> Aniket, Austin, Zoe*</br>Guest lecture:</br>[Mr. Tom Silver](https://web.mit.edu/tslvr/www/) | N. Kumar et al. [Bilevel planning for robots: An illustrated introduction](https://lis.csail.mit.edu/bilevel-planning-for-robots-an-illustrated-introduction/), MIT, 2023 |  Zoom &</br>WVH 366 |  Hw4 out</br>Hw3 due     |
 | Feb 9  | | | |  Hw5 out</br>Hw4 due     |
-| Feb 16 |*Presenters:</br> TBD*</br>Guest lecture:</br>[Mrs. Rachel Holladay](https://people.csail.mit.edu/rholladay/)  |TBD |Zoom &</br>WVH 366 |  Hw6 out</br>Hw5 due |
+| Feb 16 |*Presenters:</br> Shrihari, Nicole*</br>Guest lecture:</br>[Mrs. Rachel Holladay](https://people.csail.mit.edu/rholladay/)  |TBD |Zoom &</br>WVH 366 |  Hw6 out</br>Hw5 due |
 | Feb 23 | | | |  Hw7 out</br>Hw6 due   |
 | Mar 1  | | | |  Hw8 out</br>Hw7 due</br>Proj proposal due     |
 | Mar 8  | *No class, Spring break* |  |   |       |
