@@ -15,7 +15,7 @@ Schedule is updated dynamically throughout the semester
 | Feb 23 | *Presenters:</br> Nick, Kyle*</br>Guest lecture:</br>[Dr. Matthew McDermott](https://dbmi.hms.harvard.edu/people/matthew-mcdermott) | M. McDermott et al. [Structure-inducing pre-training](https://www.nature.com/articles/s42256-023-00647-z), Nature Machine Intelligence 2023 | Zoom &</br>WVH 366 |  Hw7 out</br>Hw6 due   |
 | Mar 1  | *Presenters:</br> Vivian, Xiaole, Sophia*</br>Guest lecture:</br>[Mr. Juncheng (Jason) Yang](https://jasony.me/) | J. Yang et al. [FIFO can be better than LRU: the power of lazy promotion and quick demotion](https://dl.acm.org/doi/10.1145/3593856.3595887), HOTOS 2023 |Zoom &</br>WVH 366 |  Hw8 out</br>Hw7 due</br>Proj proposal due     |
 | Mar 8  | *No class, Spring break* |  |   |       |
-| Mar 15 | *Panel with PhD students.<br>Guest panelists: TBD* | | |  Hw9 out</br>Hw8 due  |
+| Mar 15 | *Panel with PhD students* | Gues panelists: [Jeffrey Gleason](https://jlgleason.github.io), [Ethan Rogers](https://www.khoury.northeastern.edu/people/ethan-rogers/), [Laura South](https://laurasouth.com/), [Sarah Szvetecz](https://www.linkedin.com/in/sarah-szvetecz/)| |  Hw9 out</br>Hw8 due  |
 | Mar 22 | *Presenters:</br> Belen, Sanjana*</br>Guest lecture:</br>[Mr. Yuzhe Yang](https://www.mit.edu/~yuzhe/) | Y. Yang et al. [Artificial intelligence-enabled detection and assessment of Parkinson’s disease using nocturnal breathing signals](https://www.nature.com/articles/s41591-022-01932-x.pdf), Nature Medicine 2022 | Zoom &</br>WVH 366 |  Hw10 out</br>Hw9 due   |
 | Mar 29 | *Presenters:</br> Michael, Frank* | | |  Hw11 out</br>Hw10 due | 
 | Apr 5  | *Presenters:</br> Jason, Tanisha* | | |  Hw11 due | 
