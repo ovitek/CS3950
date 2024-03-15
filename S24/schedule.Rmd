@@ -17,8 +17,8 @@ Schedule is updated dynamically throughout the semester
 | Mar 8  | *No class, Spring break* |  |   |       |
 | Mar 15 | *Panel with PhD students* | Gues panelists: [Jeffrey Gleason](https://jlgleason.github.io), [Ethan Rogers](https://www.khoury.northeastern.edu/people/ethan-rogers/), [Laura South](https://laurasouth.com/), [Sarah Szvetecz](https://www.linkedin.com/in/sarah-szvetecz/)| Ryder 456|  Hw9 out</br>Hw8 due  |
 | Mar 22 | *Presenters:</br> Belen, Sanjana*</br>Guest lecture:</br>[Mr. Yuzhe Yang](https://www.mit.edu/~yuzhe/) | Y. Yang et al. [Artificial intelligence-enabled detection and assessment of Parkinson’s disease using nocturnal breathing signals](https://www.nature.com/articles/s41591-022-01932-x.pdf), Nature Medicine 2022 | Zoom &</br>WVH 366 |  Hw10 out</br>Hw9 due   |
-| Mar 29 | *Presenters:</br> Michael, Frank*</br>Guest lecture:</br>[Dr. Ting-Hao (Kenneth) Huang](https://ist.psu.edu/directory/txh710) | | |  Hw11 out</br>Hw10 due | 
-| Apr 5  | *Presenters:</br> Jason, Tanisha*</br>Guest lecture:</br>[Dr. Serena Booth](https://slbooth.com/) | | |  Hw11 due | 
+| Mar 29 | *Presenters:</br> Michael, Frank*</br>Guest lecture:</br>[Dr. Ting-Hao (Kenneth) Huang](https://ist.psu.edu/directory/txh710) | |Zoom &</br>WVH 366 |  Hw11 out</br>Hw10 due | 
+| Apr 5  | *Presenters:</br> Jason, Tanisha*</br>Guest lecture:</br>[Dr. Serena Booth](https://slbooth.com/) | | Zoom &</br>WVH 366 |  Hw11 due | 
 | Apr 12 |   *Project presentations*.</br> **Class starts 9:30am**  |    |  Ryder 456          |  Proj slides due  |
 | Apr 19 | *Finals week starts*  |            |  |  |
 </font>
